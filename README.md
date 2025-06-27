@@ -1,17 +1,17 @@
-# SQLite-Demo 
+# SQLite Online - Demo 
 
 Criação de tabela pedidos e atualização e exibição de tabelas pedidos Gold > 400
 
 ## 🖼 Prévia dos comandos no SQLite
 
 ![image](https://github.com/user-attachments/assets/48b318c4-a28d-48af-af36-c0260fd3fca1)
-*Comando criar tabelas pedidos gold.
+*Criando tabelas pedidos gold.
 
 ![image](https://github.com/user-attachments/assets/1ff0da2d-a0cb-446a-9a0b-5fa5232cba31)
-*Atualizar e exibir pedidos gold > 400
+*Atualizar e exibir pedidos gold > 400.
 
-## 🕵️‍♂️ Aplicando filtros - maior, menor, igual e diferente
 ![image](https://github.com/user-attachments/assets/88d91a83-42ae-428f-9a4d-1c93b80e69ec)
+*Aplicando filtros - maior, menor, igual e diferente.
 
 ## 🛠 Tecnologias utilizadas
 
