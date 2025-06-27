@@ -13,6 +13,9 @@ Criação de tabela pedidos e atualização e exibição de tabelas pedidos Gold
 ![image](https://github.com/user-attachments/assets/7fa9bbf0-68c6-451d-9db9-48786e029e47)
 *Exibir pedidos gold > 200
 
+![image](https://github.com/user-attachments/assets/fba43c93-d3f3-4fac-866e-2872d92b1269)
+*Outros comandos
+
 ## 🛠 Tecnologias utilizadas
 
 - SQLite Online
