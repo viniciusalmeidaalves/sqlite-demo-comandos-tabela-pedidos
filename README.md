@@ -13,6 +13,9 @@ Criação de tabela pedidos e atualização e exibição de tabelas pedidos Gold
 ![image](https://github.com/user-attachments/assets/88d91a83-42ae-428f-9a4d-1c93b80e69ec)
 *Aplicando filtros - maior, menor, igual e diferente.
 
+![image](https://github.com/user-attachments/assets/b9870490-b5be-41b7-81da-70dc3a60545a)
+*Filtros compostos - and, or, not e between.
+
 ## 🛠 Tecnologias utilizadas
 
 - SQLite Online
