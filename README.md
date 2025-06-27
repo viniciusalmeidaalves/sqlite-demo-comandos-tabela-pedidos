@@ -1,6 +1,6 @@
 # SQLite Online - Demo 
 
-Criação de tabela pedidos e atualização e exibição de tabelas pedidos Gold > 400
+Criação de tabela pedidos e atualização e exibição de tabelas, consultando dados
 
 ## 🖼 Prévia dos comandos no SQLite
 
