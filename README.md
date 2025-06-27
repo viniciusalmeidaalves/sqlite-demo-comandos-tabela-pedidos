@@ -1,6 +1,6 @@
 # SQLite Online - Demo 
 
-Criação de tabela pedidos e atualização e exibição de tabelas, consultando dados
+Criação de tabela pedidos e atualização e exibição de tabelas, consultando e ordenando os dados
 
 ## 🖼 Prévia dos comandos no SQLite
 
@@ -15,6 +15,9 @@ Criação de tabela pedidos e atualização e exibição de tabelas, consultando
 
 ![image](https://github.com/user-attachments/assets/b9870490-b5be-41b7-81da-70dc3a60545a)
 *Filtros compostos - and, or, not e between.
+
+![image](https://github.com/user-attachments/assets/bfadafd0-464f-4f85-8f8e-2d3efc7fd6a8)
+*Ordenando os dados - order by.
 
 ## 🛠 Tecnologias utilizadas
 
