@@ -1,6 +1,6 @@
 # SQLite Online - Demo 
 
-Criação de tabela pedidos e atualização e exibição de tabelas, consultando e ordenando os dados
+Importação da base de dados, criando tabelas, inserindo dados, consultando dados e atualizando e excluindo dados. 
 
 ## 🖼 Prévia dos comandos no SQLite
 
