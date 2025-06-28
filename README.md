@@ -19,6 +19,9 @@ Importação da base de dados, criando tabelas, inserindo dados, consultando dad
 ![image](https://github.com/user-attachments/assets/bfadafd0-464f-4f85-8f8e-2d3efc7fd6a8)
 *Ordenando os dados - order by.
 
+![image](https://github.com/user-attachments/assets/f4bf0e5c-e8dc-439f-9391-c74fe3e0ed99)
+*Alterando os dados - update.
+
 ## 🛠 Tecnologias utilizadas
 
 - SQLite Online
