@@ -22,6 +22,9 @@ Importação da base de dados, criando tabelas, inserindo dados, consultando dad
 ![image](https://github.com/user-attachments/assets/f4bf0e5c-e8dc-439f-9391-c74fe3e0ed99)
 *Alterando os dados - update.
 
+![image](https://github.com/user-attachments/assets/f271de50-686f-483b-8a6d-6d481d70f24c)
+*Deletando os dados - delete.
+
 ## 🛠 Tecnologias utilizadas
 
 - SQLite Online
