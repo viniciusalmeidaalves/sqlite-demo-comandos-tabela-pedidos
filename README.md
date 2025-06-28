@@ -1,4 +1,4 @@
-# SQLite Online - Demo Tabela Pedidos
+# SQLite Online - Demo Comandos Tabela Pedidos
 
 Importação da base de dados, criando tabelas, inserindo dados, consultando dados e atualizando e excluindo dados. 
 
